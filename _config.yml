@@ -1,7 +1,8 @@
 # Site settings
 title: The Computational Protein Description project
-description: > The CPD project is trying to aggressively refactor
-	computerized protein classification, identification, and curation.
+description: > # ignore newlines until baseurl:
+  The CPD project is trying to aggressively refactor
+  computerized protein classification, identification, and curation.
 baseurl: ""
 url: "https://proteins.github.io" # the base hostname & protocol for your site
 github_username:  proteins
